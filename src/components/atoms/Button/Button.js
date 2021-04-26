@@ -9,4 +9,5 @@ export const Button = styled.button`
   font-weight: bold;
   color: ${({ theme }) => theme.colors.darkGrey};
   cursor: pointer;
+  margin-top: 20px;
 `;
